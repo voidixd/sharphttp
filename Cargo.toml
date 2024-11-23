@@ -1,6 +1,6 @@
 [package]
 name = "sharphttp"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "A fast HTTP client implementation in Rust for Python"
 authors = ["acatto <nothanks@example.com>"]
@@ -26,6 +26,8 @@ encoding_rs = "0.8"
 bytes = "1.0"
 urlencoding = "2.1"
 libc = "0.2"
+flate2 = "1.0"
+brotli = "3.3"
 
 [target.'cfg(unix)'.dependencies]
 libc = "0.2"
