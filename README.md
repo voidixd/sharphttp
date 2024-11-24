@@ -1,6 +1,6 @@
 # 🚀 SharpHTTP
 
-A blazingly fast HTTP client implementation in Rust for Python, offering exceptional performance and reliability!
+A blazingly fast HTTP client implementation in Rust for Python, offering exceptional performance and reliability.
 
 [![PyPI version](https://badge.fury.io/py/sharphttp.svg)](https://badge.fury.io/py/sharphttp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
